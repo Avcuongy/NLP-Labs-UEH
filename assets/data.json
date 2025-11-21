@@ -3,30 +3,9 @@
     "id": 21,
     "annotations": [
       {
-        "id": 41,
+        "id": 58,
         "completed_by": 1,
         "result": [
-          {
-            "value": {
-              "start": 0,
-              "end": 24,
-              "text": "Đại hội lần thứ nhất của",
-              "labels": ["O"]
-            },
-            "id": "BTNZTlVkvc",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": { "start": 25, "end": 25, "text": "", "labels": ["ORG"] },
-            "id": "dKAME__Ui9",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
           {
             "value": {
               "start": 25,
@@ -34,7 +13,20 @@
               "text": "Đảng Cộng sản Đông Dương",
               "labels": ["ORG"]
             },
-            "id": "gpaxu8o-cc",
+            "id": "UK1JDbg7KT",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "Đại hội lần thứ nhất của",
+              "labels": ["O"]
+            },
+            "id": "VyDbO1KaGc",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -43,24 +35,11 @@
           {
             "value": {
               "start": 50,
-              "end": 92,
-              "text": "ngày 29 tháng 3 năm 1935 thông qua Điều lệ",
+              "end": 84,
+              "text": "ngày 29 tháng 3 năm 1935 thông qua",
               "labels": ["O"]
             },
-            "id": "3bKrt2KG5K",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 93,
-              "end": 117,
-              "text": "Đảng Cộng sản Đông Dương",
-              "labels": ["O"]
-            },
-            "id": "1f9FB4U4XZ",
+            "id": "LY-dpMl7iR",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -73,7 +52,33 @@
               "text": "gồm 59 điều 8 chương",
               "labels": ["O"]
             },
-            "id": "yVUyvU9jal",
+            "id": "NXmVF-V6Gr",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 85,
+              "end": 92,
+              "text": "Điều lệ",
+              "labels": ["O"]
+            },
+            "id": "lGQIpqsULK",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 93,
+              "end": 117,
+              "text": "Đảng Cộng sản Đông Dương",
+              "labels": ["ORG"]
+            },
+            "id": "T7kzgXrlEr",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -82,13 +87,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:15:01.344988Z",
-        "updated_at": "2025-11-20T12:15:01.344988Z",
-        "draft_created_at": "2025-11-20T12:11:47.670597Z",
-        "lead_time": 597.352,
+        "created_at": "2025-11-21T01:33:01.126507Z",
+        "updated_at": "2025-11-21T01:33:01.127507Z",
+        "draft_created_at": "2025-11-21T01:31:40.088010Z",
+        "lead_time": 91.96,
         "prediction": {},
         "result_count": 6,
-        "unique_id": "e4ceab4a-d067-4c0a-a229-e35392ac95cf",
+        "unique_id": "3a2e85ae-5962-4d83-9032-9615a7b6e997",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -100,15 +105,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Đại hội lần thứ nhất của Đảng Cộng sản Đông Dương ngày 29 tháng 3 năm 1935 thông qua Điều lệ Đảng Cộng sản Đông Dương gồm 59 điều 8 chương"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.050040Z",
-    "updated_at": "2025-11-20T12:15:01.436759Z",
+    "created_at": "2025-11-21T01:30:28.017570Z",
+    "updated_at": "2025-11-21T01:33:01.204131Z",
     "inner_id": 1,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -124,22 +129,9 @@
     "id": 22,
     "annotations": [
       {
-        "id": 42,
+        "id": 59,
         "completed_by": 1,
         "result": [
-          {
-            "value": {
-              "start": 0,
-              "end": 45,
-              "text": "Điều lệ sửa đổi bổ sung tôn chỉ hành động của",
-              "labels": ["O"]
-            },
-            "id": "O-hAAAJImm",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
           {
             "value": {
               "start": 46,
@@ -147,7 +139,20 @@
               "text": "Đảng",
               "labels": ["ORG"]
             },
-            "id": "KnrM5fAbVA",
+            "id": "unMy7fJ5d5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 0,
+              "end": 45,
+              "text": "Điều lệ sửa đổi bổ sung tôn chỉ hành động của",
+              "labels": ["O"]
+            },
+            "id": "wgku3yzLa5",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -160,7 +165,7 @@
               "text": "từ tranh đấu để tiêu trừ tư bản đế quốc chủ nghĩa thành làm cách mạng phản đế và điền địa",
               "labels": ["O"]
             },
-            "id": "KQjXw-B8km",
+            "id": "EnP1QXetgS",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -169,13 +174,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:28:10.032737Z",
-        "updated_at": "2025-11-20T12:28:10.032737Z",
-        "draft_created_at": "2025-11-20T12:27:42.380567Z",
-        "lead_time": 786.693,
+        "created_at": "2025-11-21T01:33:54.098466Z",
+        "updated_at": "2025-11-21T01:33:54.098466Z",
+        "draft_created_at": "2025-11-21T01:33:29.632301Z",
+        "lead_time": 52.003,
         "prediction": {},
         "result_count": 3,
-        "unique_id": "0a2c577c-9948-47ef-8539-b5e6920a30ec",
+        "unique_id": "596a4a3f-cc84-4011-bcb5-218de05c6f74",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -187,15 +192,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Điều lệ sửa đổi bổ sung tôn chỉ hành động của Đảng từ tranh đấu để tiêu trừ tư bản đế quốc chủ nghĩa thành làm cách mạng phản đế và điền địa"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:28:10.110009Z",
+    "created_at": "2025-11-21T01:30:28.017570Z",
+    "updated_at": "2025-11-21T01:33:54.165910Z",
     "inner_id": 2,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -211,17 +216,17 @@
     "id": 23,
     "annotations": [
       {
-        "id": 43,
+        "id": 60,
         "completed_by": 1,
         "result": [
           {
             "value": {
               "start": 0,
-              "end": 65,
-              "text": "Bổ sung độ tuổi vào Đảng từ 23 tuổi trở lên bổ sung quy định tước",
+              "end": 19,
+              "text": "Bổ sung độ tuổi vào",
               "labels": ["O"]
             },
-            "id": "sCl8CiKema",
+            "id": "rdkimY-FOq",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -229,25 +234,25 @@
           },
           {
             "value": {
-              "start": 66,
-              "end": 70,
-              "text": "đảng",
+              "start": 25,
+              "end": 75,
+              "text": "từ 23 tuổi trở lên bổ sung quy định tước đảng tịch",
+              "labels": ["O"]
+            },
+            "id": "s6EiBFashI",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 20,
+              "end": 24,
+              "text": "Đảng",
               "labels": ["ORG"]
             },
-            "id": "cQWomx28rP",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 71,
-              "end": 75,
-              "text": "tịch",
-              "labels": ["O"]
-            },
-            "id": "pjf-dK6ONt",
+            "id": "V6OLFhhCO-",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -256,13 +261,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:28:37.810578Z",
-        "updated_at": "2025-11-20T12:28:37.810578Z",
-        "draft_created_at": "2025-11-20T12:28:33.837632Z",
-        "lead_time": 26.89,
+        "created_at": "2025-11-21T01:34:08.771353Z",
+        "updated_at": "2025-11-21T01:34:08.771353Z",
+        "draft_created_at": "2025-11-21T01:34:04.984447Z",
+        "lead_time": 13.592,
         "prediction": {},
         "result_count": 3,
-        "unique_id": "f0ce50b2-e02e-4894-88ed-b665933f7896",
+        "unique_id": "a9296a59-a67f-40bd-b724-f34a4ba3199c",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -274,15 +279,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Bổ sung độ tuổi vào Đảng từ 23 tuổi trở lên bổ sung quy định tước đảng tịch"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:28:37.878670Z",
+    "created_at": "2025-11-21T01:30:28.017570Z",
+    "updated_at": "2025-11-21T01:34:08.839458Z",
     "inner_id": 3,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -298,22 +303,9 @@
     "id": 24,
     "annotations": [
       {
-        "id": 44,
+        "id": 61,
         "completed_by": 1,
         "result": [
-          {
-            "value": {
-              "start": 0,
-              "end": 23,
-              "text": "Bổ sung sửa đổi tổ chức",
-              "labels": ["O"]
-            },
-            "id": "Q1B_TqgG-E",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
           {
             "value": {
               "start": 29,
@@ -321,7 +313,7 @@
               "text": "các cấp quy định nhiệm vụ",
               "labels": ["O"]
             },
-            "id": "pPSKYASkH8",
+            "id": "crfOfW0m-d",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -334,20 +326,7 @@
               "text": "Đảng",
               "labels": ["ORG"]
             },
-            "id": "W7HEMOoNrv",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 55,
-              "end": 79,
-              "text": "Thanh niên Cộng sản Đoàn",
-              "labels": ["ORG"]
-            },
-            "id": "qUtQ6ep4f5",
+            "id": "nwKbkXI4v9",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -360,7 +339,20 @@
               "text": "Đảng",
               "labels": ["ORG"]
             },
-            "id": "R7ECUZH-oz",
+            "id": "gkVgkPm5eB",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 0,
+              "end": 23,
+              "text": "Bổ sung sửa đổi tổ chức",
+              "labels": ["O"]
+            },
+            "id": "mKsEU1Uf9n",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -368,7 +360,20 @@
           },
           {
             "value": { "start": 80, "end": 83, "text": "với", "labels": ["O"] },
-            "id": "--9A2wJJCS",
+            "id": "rgb36oh5Dt",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 55,
+              "end": 79,
+              "text": "Thanh niên Cộng sản Đoàn",
+              "labels": ["ORG"]
+            },
+            "id": "ZrWEJdy3wJ",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -377,13 +382,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:29:21.887604Z",
-        "updated_at": "2025-11-20T12:29:21.887604Z",
-        "draft_created_at": "2025-11-20T12:28:55.419257Z",
-        "lead_time": 42.834,
+        "created_at": "2025-11-21T01:34:57.831633Z",
+        "updated_at": "2025-11-21T01:34:57.831633Z",
+        "draft_created_at": "2025-11-21T01:34:28.197435Z",
+        "lead_time": 40.168,
         "prediction": {},
         "result_count": 6,
-        "unique_id": "91a80075-1075-45b3-ab92-94ebbf460099",
+        "unique_id": "b89bad58-9a8d-4861-8cce-48f9e2bd26d9",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -395,15 +400,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Bổ sung sửa đổi tổ chức Đảng các cấp quy định nhiệm vụ Thanh niên Cộng sản Đoàn với Đảng"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:29:21.954811Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:34:57.887226Z",
     "inner_id": 4,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -419,17 +424,25 @@
     "id": 25,
     "annotations": [
       {
-        "id": 45,
+        "id": 62,
         "completed_by": 1,
         "result": [
           {
             "value": {
               "start": 0,
-              "end": 31,
-              "text": "Sửa đổi tôn chỉ và mục đích của",
+              "end": 27,
+              "text": "Sửa đổi tôn chỉ và mục đích",
               "labels": ["O"]
             },
-            "id": "TIYt2TNm3Y",
+            "id": "gAuznr_2Gl",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": { "start": 28, "end": 31, "text": "của", "labels": ["O"] },
+            "id": "b8zQfDVBam",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -438,11 +451,11 @@
           {
             "value": {
               "start": 37,
-              "end": 52,
-              "text": "thành đánh đuổi",
+              "end": 214,
+              "text": "thành đánh đuổi đế quốc xâm lược xoá bỏ các di tích phong kiến và nửa phong kiến thực hiện người cày có ruộng phát triển kinh tế chính trị vǎn hoá dân chủ nhân dân Đưa chủ nghĩa",
               "labels": ["O"]
             },
-            "id": "Fl8v58vjcv",
+            "id": "pHPtkRfEBq",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -450,12 +463,12 @@
           },
           {
             "value": {
-              "start": 51,
-              "end": 188,
-              "text": "i đế quốc xâm lược xoá bỏ các di tích phong kiến và nửa phong kiến thực hiện người cày có ruộng phát triển kinh tế chính trị vǎn hoá dân ",
+              "start": 240,
+              "end": 251,
+              "text": "và tư tưởng",
               "labels": ["O"]
             },
-            "id": "nVc7o9lajD",
+            "id": "1hePEGO0yn",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -463,12 +476,12 @@
           },
           {
             "value": {
-              "start": 32,
-              "end": 36,
-              "text": "Đảng",
-              "labels": ["ORG"]
+              "start": 267,
+              "end": 292,
+              "text": "làm kim chỉ nam hành động",
+              "labels": ["O"]
             },
-            "id": "YF2X7N74JJ",
+            "id": "YSQfhZXtTN",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -477,11 +490,11 @@
           {
             "value": {
               "start": 215,
-              "end": 236,
-              "text": "MarxEngelsLeninStalin",
+              "end": 239,
+              "text": "Marx Engels Lenin Stalin",
               "labels": ["PER"]
             },
-            "id": "ou6VHgMdAV",
+            "id": "gASC_2YGKH",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -489,51 +502,12 @@
           },
           {
             "value": {
-              "start": 249,
-              "end": 263,
+              "start": 252,
+              "end": 266,
               "text": "Mao Trạch Đông",
               "labels": ["PER"]
             },
-            "id": "T9iNFCLjnd",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 188,
-              "end": 214,
-              "text": "chủ nhân dân Đưa chủ nghĩa",
-              "labels": ["O"]
-            },
-            "id": "xhOZLnC-DB",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 264,
-              "end": 289,
-              "text": "làm kim chỉ nam hành động",
-              "labels": ["O"]
-            },
-            "id": "qF8uHPdI9K",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 237,
-              "end": 248,
-              "text": "và tư tưởng",
-              "labels": ["O"]
-            },
-            "id": "e5WKxMe7Ou",
+            "id": "tDLVrD27xZ",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -542,13 +516,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:31:02.506220Z",
-        "updated_at": "2025-11-20T12:31:02.506220Z",
-        "draft_created_at": "2025-11-20T12:29:33.971048Z",
-        "lead_time": 98.752,
+        "created_at": "2025-11-21T01:35:33.665359Z",
+        "updated_at": "2025-11-21T01:35:33.665359Z",
+        "draft_created_at": "2025-11-21T01:35:11.884260Z",
+        "lead_time": 34.46,
         "prediction": {},
-        "result_count": 9,
-        "unique_id": "83c1d3fb-98c7-4c8e-829f-0fef9c8f6964",
+        "result_count": 7,
+        "unique_id": "351a98cd-261b-45ad-9877-a738556aa0d8",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -560,15 +534,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
-      "text": "Sửa đổi tôn chỉ và mục đích của Đảng thành đánh đuổi đế quốc xâm lược xoá bỏ các di tích phong kiến và nửa phong kiến thực hiện người cày có ruộng phát triển kinh tế chính trị vǎn hoá dân chủ nhân dân Đưa chủ nghĩa MarxEngelsLeninStalin và tư tưởng Mao Trạch Đông làm kim chỉ nam hành động"
+      "text": "Sửa đổi tôn chỉ và mục đích của Đảng thành đánh đuổi đế quốc xâm lược xoá bỏ các di tích phong kiến và nửa phong kiến thực hiện người cày có ruộng phát triển kinh tế chính trị vǎn hoá dân chủ nhân dân Đưa chủ nghĩa Marx Engels Lenin Stalin và tư tưởng Mao Trạch Đông làm kim chỉ nam hành động"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:31:02.571012Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:35:33.731726Z",
     "inner_id": 5,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -584,22 +558,9 @@
     "id": 26,
     "annotations": [
       {
-        "id": 46,
+        "id": 63,
         "completed_by": 1,
         "result": [
-          {
-            "value": {
-              "start": 20,
-              "end": 24,
-              "text": "Đảng",
-              "labels": ["ORG"]
-            },
-            "id": "ngZ-2lnGOR",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
           {
             "value": {
               "start": 0,
@@ -607,7 +568,7 @@
               "text": "Sửa đổi độ tuổi vào",
               "labels": ["O"]
             },
-            "id": "KMrBYdYKUM",
+            "id": "EEYytuilQb",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -616,11 +577,11 @@
           {
             "value": {
               "start": 25,
-              "end": 94,
-              "text": "là từ 18 tuổi trở lên Bổ sung nguyên tắc dân chủ tập trung trong Đảng",
+              "end": 89,
+              "text": "là từ 18 tuổi trở lên Bổ sung nguyên tắc dân chủ tập trung trong",
               "labels": ["O"]
             },
-            "id": "Jtnbm74mvy",
+            "id": "0tc0xSG7RE",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -628,12 +589,12 @@
           },
           {
             "value": {
-              "start": 94,
+              "start": 95,
               "end": 122,
-              "text": " sửa đổi bổ sung tổ chức của",
+              "text": "sửa đổi bổ sung tổ chức của",
               "labels": ["O"]
             },
-            "id": "AuRL1uJOyQ",
+            "id": "Rr8UYkcvBi",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -646,7 +607,20 @@
               "text": "gồm",
               "labels": ["O"]
             },
-            "id": "XTnjperkRD",
+            "id": "FjiaMy9jDe",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 132,
+              "end": 154,
+              "text": "Đại hội Đảng toàn quốc",
+              "labels": ["ORG"]
+            },
+            "id": "xPYqi2WCU9",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -655,11 +629,24 @@
           {
             "value": {
               "start": 170,
-              "end": 237,
-              "text": "xứ ủykhu ủyliên khu ủy tỉnh ủythành ủy huyện uỷquận uỷthị uỷ chi ủy",
+              "end": 243,
+              "text": "xứ ủy khu lủy liên khu ủy tỉnh ủy thành ủy huyện uỷ quận uỷ thị uỷ chi ủy",
               "labels": ["O"]
             },
-            "id": "--CFvKEjzI",
+            "id": "bhCpeoDJcC",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 20,
+              "end": 24,
+              "text": "Đảng",
+              "labels": ["ORG"]
+            },
+            "id": "eR-MCENLku",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -672,7 +659,7 @@
               "text": "Đảng",
               "labels": ["ORG"]
             },
-            "id": "PgjDy3ocDp",
+            "id": "Nyiarb34oU",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -680,12 +667,25 @@
           },
           {
             "value": {
-              "start": 132,
-              "end": 170,
-              "text": "Đại hội Đảng toàn quốcTrung ương Đảng ",
-              "labels": ["O"]
+              "start": 154,
+              "end": 169,
+              "text": "Trung ương Đảng",
+              "labels": ["ORG"]
             },
-            "id": "3xcQpFvmg_",
+            "id": "iPohV5yiMV",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 90,
+              "end": 94,
+              "text": "Đảng",
+              "labels": ["ORG"]
+            },
+            "id": "AtPkyRYoNu",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -694,13 +694,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:35:26.526458Z",
-        "updated_at": "2025-11-20T12:35:26.526458Z",
-        "draft_created_at": "2025-11-20T12:31:13.175646Z",
-        "lead_time": 262.869,
+        "created_at": "2025-11-21T01:36:56.753698Z",
+        "updated_at": "2025-11-21T01:36:56.753698Z",
+        "draft_created_at": "2025-11-21T01:36:15.174438Z",
+        "lead_time": 82.274,
         "prediction": {},
-        "result_count": 8,
-        "unique_id": "179ccb96-e077-43f0-a6ae-8faa8fc033ef",
+        "result_count": 10,
+        "unique_id": "21b091d9-af17-442a-b3ec-9bd2ab7b0584",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -712,15 +712,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
-      "text": "Sửa đổi độ tuổi vào Đảng là từ 18 tuổi trở lên Bổ sung nguyên tắc dân chủ tập trung trong Đảng sửa đổi bổ sung tổ chức của Đảng gồm Đại hội Đảng toàn quốc Trung ương Đảng xứ ủykhu ủyliên khu ủy tỉnh ủythành ủy huyện uỷquận uỷthị uỷ chi ủy"
+      "text": "Sửa đổi độ tuổi vào Đảng là từ 18 tuổi trở lên Bổ sung nguyên tắc dân chủ tập trung trong Đảng sửa đổi bổ sung tổ chức của Đảng gồm Đại hội Đảng toàn quốcTrung ương Đảng xứ ủy khu lủy liên khu ủy tỉnh ủy thành ủy huyện uỷ quận uỷ thị uỷ chi ủy"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:35:26.594304Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:36:56.825504Z",
     "inner_id": 6,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -736,35 +736,9 @@
     "id": 27,
     "annotations": [
       {
-        "id": 47,
+        "id": 64,
         "completed_by": 1,
         "result": [
-          {
-            "value": {
-              "start": 41,
-              "end": 45,
-              "text": "Đảng",
-              "labels": ["ORG"]
-            },
-            "id": "2UeA6dEYnp",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 58,
-              "end": 82,
-              "text": "đoàn thanh niên cộng sản",
-              "labels": ["ORG"]
-            },
-            "id": "mKeIJn3phN",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
           {
             "value": {
               "start": 0,
@@ -772,7 +746,7 @@
               "text": "Quy định về nhiệm vụ của các cơ quan của",
               "labels": ["O"]
             },
-            "id": "EH_JdpfCTo",
+            "id": "CzMJIsB9JN",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -785,7 +759,7 @@
               "text": "Bỏ quy định",
               "labels": ["O"]
             },
-            "id": "42L9VBPy1h",
+            "id": "pDRooD_0q6",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -798,7 +772,33 @@
               "text": "ra khỏi điều lệ",
               "labels": ["O"]
             },
-            "id": "atSPJtTxCj",
+            "id": "X7RCdZ7ZNp",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 41,
+              "end": 45,
+              "text": "Đảng",
+              "labels": ["ORG"]
+            },
+            "id": "hIKXKnZHLd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 57,
+              "end": 82,
+              "text": " đoàn thanh niên cộng sản",
+              "labels": ["ORG"]
+            },
+            "id": "EAwRqYVomP",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -807,13 +807,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:36:20.122115Z",
-        "updated_at": "2025-11-20T12:36:20.122115Z",
-        "draft_created_at": "2025-11-20T12:35:43.274710Z",
-        "lead_time": 51.59,
+        "created_at": "2025-11-21T01:37:16.346400Z",
+        "updated_at": "2025-11-21T01:37:16.346400Z",
+        "draft_created_at": "2025-11-21T01:37:09.193308Z",
+        "lead_time": 17.296,
         "prediction": {},
         "result_count": 5,
-        "unique_id": "c64eb77a-b1c9-40df-8f41-b33f36dd77ce",
+        "unique_id": "bcef6907-35c4-4bb4-a655-cf96930a635d",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -825,15 +825,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Quy định về nhiệm vụ của các cơ quan của Đảng Bỏ quy định đoàn thanh niên cộng sản ra khỏi điều lệ"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:36:20.189791Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:37:16.414545Z",
     "inner_id": 7,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -849,30 +849,17 @@
     "id": 28,
     "annotations": [
       {
-        "id": 48,
+        "id": 65,
         "completed_by": 1,
         "result": [
           {
             "value": {
-              "start": 18,
-              "end": 31,
-              "text": "Đảng Lao động",
-              "labels": ["ORG"]
+              "start": 0,
+              "end": 17,
+              "text": "Đại hội lần thứ 3",
+              "labels": ["O"]
             },
-            "id": "P-eg8pRius",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 32,
-              "end": 40,
-              "text": "Việt Nam",
-              "labels": ["LOC"]
-            },
-            "id": "LBovO-nUT_",
+            "id": "HNSBl5z1S3",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -885,7 +872,7 @@
               "text": "gồm 62 điều 12 chương",
               "labels": ["O"]
             },
-            "id": "mAdt1vpdy7",
+            "id": "sikLyzNNk_",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -893,12 +880,25 @@
           },
           {
             "value": {
-              "start": 0,
-              "end": 17,
-              "text": "Đại hội lần thứ 3",
-              "labels": ["O"]
+              "start": 18,
+              "end": 31,
+              "text": "Đảng Lao động",
+              "labels": ["ORG"]
             },
-            "id": "I5dsHMnpDD",
+            "id": "ggLmz7Kl2j",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "Việt Nam",
+              "labels": ["LOC"]
+            },
+            "id": "1LL3RByFIm",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -907,13 +907,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:36:37.502871Z",
-        "updated_at": "2025-11-20T12:36:37.502871Z",
-        "draft_created_at": "2025-11-20T12:36:32.308884Z",
-        "lead_time": 16.165,
+        "created_at": "2025-11-21T01:37:51.253742Z",
+        "updated_at": "2025-11-21T01:37:51.253742Z",
+        "draft_created_at": "2025-11-21T01:37:30.512635Z",
+        "lead_time": 30.29,
         "prediction": {},
         "result_count": 4,
-        "unique_id": "e635b30e-7e90-4276-a850-084f5bb892c2",
+        "unique_id": "a4acb218-2272-4e64-a4ad-5634dd4f0009",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -925,15 +925,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Đại hội lần thứ 3 Đảng Lao động Việt Nam gồm 62 điều 12 chương"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:36:37.564959Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:37:51.320304Z",
     "inner_id": 8,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -949,22 +949,9 @@
     "id": 29,
     "annotations": [
       {
-        "id": 49,
+        "id": 66,
         "completed_by": 1,
         "result": [
-          {
-            "value": {
-              "start": 21,
-              "end": 25,
-              "text": "Đảng",
-              "labels": ["ORG"]
-            },
-            "id": "ZnmWt8sSMi",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
           {
             "value": {
               "start": 0,
@@ -972,7 +959,7 @@
               "text": "Sửa đổi mục đích của",
               "labels": ["O"]
             },
-            "id": "bKL3NEfgxX",
+            "id": "cHQDiUJ75h",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -981,11 +968,11 @@
           {
             "value": {
               "start": 26,
-              "end": 129,
-              "text": "thành hoàn thành cách mạng dân tộc dân chủ nhân dân thực hiện chủ nghĩa xã hội và chủ nghĩa cộng sản ở ",
+              "end": 128,
+              "text": "thành hoàn thành cách mạng dân tộc dân chủ nhân dân thực hiện chủ nghĩa xã hội và chủ nghĩa cộng sản ở",
               "labels": ["O"]
             },
-            "id": "wUCSruDXey",
+            "id": "ImQmXGIZle",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -998,7 +985,20 @@
               "text": "Việt Nam",
               "labels": ["LOC"]
             },
-            "id": "FY6ADWfuL0",
+            "id": "CQQKxkUrrl",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 21,
+              "end": 25,
+              "text": "Đảng",
+              "labels": ["ORG"]
+            },
+            "id": "doL-bdZg5t",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1007,13 +1007,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:37:09.943186Z",
-        "updated_at": "2025-11-20T12:37:09.943186Z",
-        "draft_created_at": "2025-11-20T12:36:48.678885Z",
-        "lead_time": 30.597,
+        "created_at": "2025-11-21T01:39:30.230655Z",
+        "updated_at": "2025-11-21T01:39:30.230655Z",
+        "draft_created_at": "2025-11-21T01:39:26.251313Z",
+        "lead_time": 97.998,
         "prediction": {},
         "result_count": 4,
-        "unique_id": "bc5160df-54e5-45f0-ab15-b252cefd797b",
+        "unique_id": "462ed5fb-f7ec-4da0-837e-09525a9376d1",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -1025,15 +1025,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Sửa đổi mục đích của Đảng thành hoàn thành cách mạng dân tộc dân chủ nhân dân thực hiện chủ nghĩa xã hội và chủ nghĩa cộng sản ở Việt Nam"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:37:10.013437Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:39:30.289107Z",
     "inner_id": 9,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -1049,22 +1049,9 @@
     "id": 30,
     "annotations": [
       {
-        "id": 50,
+        "id": 67,
         "completed_by": 1,
         "result": [
-          {
-            "value": {
-              "start": 18,
-              "end": 27,
-              "text": "MarxLenin",
-              "labels": ["PER"]
-            },
-            "id": "KhITjTSU6w",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
           {
             "value": {
               "start": 0,
@@ -1072,7 +1059,7 @@
               "text": "Sửa đổi chủ nghĩa",
               "labels": ["O"]
             },
-            "id": "gTfxkOyj1Q",
+            "id": "KSO4dGlIba",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1085,7 +1072,7 @@
               "text": "làm nền tảng tư tưởng và kim chỉ nam hành động của",
               "labels": ["O"]
             },
-            "id": "Bulu6ASBwf",
+            "id": "BhG9gJHirc",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1098,7 +1085,20 @@
               "text": "Đảng",
               "labels": ["ORG"]
             },
-            "id": "EJzAuQvvtp",
+            "id": "8jg5ZCGsiT",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 18,
+              "end": 27,
+              "text": "MarxLenin",
+              "labels": ["PER"]
+            },
+            "id": "Xed3d626Na",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1107,13 +1107,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:37:30.249393Z",
-        "updated_at": "2025-11-20T12:37:30.249393Z",
-        "draft_created_at": "2025-11-20T12:37:22.864651Z",
-        "lead_time": 19.03,
+        "created_at": "2025-11-21T01:39:42.187254Z",
+        "updated_at": "2025-11-21T01:39:42.187254Z",
+        "draft_created_at": "2025-11-21T01:39:39.760342Z",
+        "lead_time": 10.625,
         "prediction": {},
         "result_count": 4,
-        "unique_id": "1378a08b-cd90-446b-8c79-bffaf9d46cc2",
+        "unique_id": "f7b85722-1a17-4ca9-a3d5-92881f55e532",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -1125,15 +1125,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Sửa đổi chủ nghĩa MarxLenin làm nền tảng tư tưởng và kim chỉ nam hành động của Đảng"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:37:30.316362Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:39:42.265027Z",
     "inner_id": 10,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -1149,17 +1149,17 @@
     "id": 31,
     "annotations": [
       {
-        "id": 51,
+        "id": 68,
         "completed_by": 1,
         "result": [
           {
             "value": {
-              "start": 16,
-              "end": 27,
-              "text": " đảng viên ",
-              "labels": ["PER"]
+              "start": 0,
+              "end": 16,
+              "text": "Bổ sung nhiệm vụ",
+              "labels": ["O"]
             },
-            "id": "1nF_4dvcWa",
+            "id": "Ysifylfxc3",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1172,7 +1172,7 @@
               "text": "thực hành tiết kiệm tích cực đấu tranh chống lãng phí tham ô",
               "labels": ["O"]
             },
-            "id": "GiKbUv1MmZ",
+            "id": "9SDh9yehCO",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1180,12 +1180,12 @@
           },
           {
             "value": {
-              "start": 0,
-              "end": 16,
-              "text": "Bổ sung nhiệm vụ",
-              "labels": ["O"]
+              "start": 17,
+              "end": 26,
+              "text": "đảng viên",
+              "labels": ["PER"]
             },
-            "id": "0GF-YWpfh_",
+            "id": "lsWp6c475f",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1194,13 +1194,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:38:00.827652Z",
-        "updated_at": "2025-11-20T12:38:00.828678Z",
-        "draft_created_at": "2025-11-20T12:37:46.438515Z",
-        "lead_time": 29.437,
+        "created_at": "2025-11-21T01:39:53.995574Z",
+        "updated_at": "2025-11-21T01:39:53.995574Z",
+        "draft_created_at": "2025-11-21T01:39:51.840996Z",
+        "lead_time": 10.801,
         "prediction": {},
         "result_count": 3,
-        "unique_id": "972484b3-f2c9-48b8-aafa-1b14a878959e",
+        "unique_id": "b39c9b29-9ac7-44f8-8f40-6727f368d6bd",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -1212,15 +1212,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Bổ sung nhiệm vụ đảng viên thực hành tiết kiệm tích cực đấu tranh chống lãng phí tham ô"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:38:00.889295Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:39:54.047407Z",
     "inner_id": 11,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -1236,7 +1236,7 @@
     "id": 32,
     "annotations": [
       {
-        "id": 52,
+        "id": 69,
         "completed_by": 1,
         "result": [
           {
@@ -1246,7 +1246,7 @@
               "text": "Bổ sung quy định chi tiết nguyên tắc tập trung dân chủ trong",
               "labels": ["O"]
             },
-            "id": "SCsfQzFl1W",
+            "id": "YuPktP_Wqh",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1255,24 +1255,11 @@
           {
             "value": {
               "start": 66,
-              "end": 85,
-              "text": "Sửa đổi tổ chức của",
-              "labels": ["O"]
-            },
-            "id": "9YFkgmt1Q-",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 91,
               "end": 112,
-              "text": "quy định nhiệm kỳ của",
+              "text": "Sửa đổi tổ chức của Đảng quy định nhiệm kỳ của",
               "labels": ["O"]
             },
-            "id": "AmpV9bDVoe",
+            "id": "aeJVsJx4Su",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1285,20 +1272,7 @@
               "text": "Đảng",
               "labels": ["ORG"]
             },
-            "id": "7YAPmQf7w6",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 86,
-              "end": 90,
-              "text": "Đảng",
-              "labels": ["ORG"]
-            },
-            "id": "IOktrY0fUo",
+            "id": "HZyqExufLN",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1311,7 +1285,7 @@
               "text": "Ban chấp hành Trung ương",
               "labels": ["ORG"]
             },
-            "id": "L6WSOUq_iT",
+            "id": "4AmYJpNqqS",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1319,12 +1293,12 @@
           },
           {
             "value": {
-              "start": 139,
+              "start": 138,
               "end": 146,
-              "text": "à 4 năm",
+              "text": "là 4 năm",
               "labels": ["O"]
             },
-            "id": "PKnxyfjq9d",
+            "id": "qZZpaTsGf9",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1333,13 +1307,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:38:32.744376Z",
-        "updated_at": "2025-11-20T12:38:32.744376Z",
-        "draft_created_at": "2025-11-20T12:38:14.941837Z",
-        "lead_time": 27.897,
+        "created_at": "2025-11-21T01:40:15.185532Z",
+        "updated_at": "2025-11-21T01:40:15.185532Z",
+        "draft_created_at": "2025-11-21T01:40:07.223769Z",
+        "lead_time": 20.229,
         "prediction": {},
-        "result_count": 7,
-        "unique_id": "cccf3d30-c031-4cf4-a12f-c05ea24c6851",
+        "result_count": 5,
+        "unique_id": "cd54289c-3dc8-4bba-b705-92c54b647f4a",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -1351,15 +1325,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Bổ sung quy định chi tiết nguyên tắc tập trung dân chủ trong Đảng Sửa đổi tổ chức của Đảng quy định nhiệm kỳ của Ban chấp hành Trung ương là 4 năm"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:38:32.808486Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:40:15.256436Z",
     "inner_id": 12,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -1375,7 +1349,7 @@
     "id": 33,
     "annotations": [
       {
-        "id": 53,
+        "id": 70,
         "completed_by": 1,
         "result": [
           {
@@ -1385,7 +1359,20 @@
               "text": "Đảng Cộng sản Việt Nam",
               "labels": ["ORG"]
             },
-            "id": "MoO5PJXdxE",
+            "id": "DFWGslaJDc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 14,
+              "end": 22,
+              "text": "Việt Nam",
+              "labels": ["LOC"]
+            },
+            "id": "fWVN6bK22D",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1394,11 +1381,24 @@
           {
             "value": {
               "start": 23,
-              "end": 63,
-              "text": "là đội tiên phong của giai cấp công nhân",
+              "end": 53,
+              "text": "là đội tiên phong của giai cấp",
               "labels": ["O"]
             },
-            "id": "9mLG-b66Sz",
+            "id": "I1NbWuUJm6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 54,
+              "end": 63,
+              "text": "công nhân",
+              "labels": ["PER"]
+            },
+            "id": "wFkJjlRPyI",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1411,7 +1411,7 @@
               "text": "Việt Nam",
               "labels": ["LOC"]
             },
-            "id": "X0mLnBnppy",
+            "id": "MDow5LPnJe",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1420,11 +1420,63 @@
           {
             "value": {
               "start": 73,
-              "end": 160,
-              "text": "đại biểu trung thành lợi ích của giai cấp công nhân nhân dân lao động và của cả dân tộc",
+              "end": 114,
+              "text": "đại biểu trung thành lợi ích của giai cấp",
               "labels": ["O"]
             },
-            "id": "dYHA8HNeJ-",
+            "id": "dAqklH2C-V",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 115,
+              "end": 124,
+              "text": "công nhân",
+              "labels": ["PER"]
+            },
+            "id": "D8LDvZRYHN",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 125,
+              "end": 133,
+              "text": "nhân dân",
+              "labels": ["PER"]
+            },
+            "id": "AqsoX1Tjgz",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 134,
+              "end": 142,
+              "text": "lao động",
+              "labels": ["O"]
+            },
+            "id": "moh9pap6gV",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 143,
+              "end": 160,
+              "text": "và của cả dân tộc",
+              "labels": ["O"]
+            },
+            "id": "XuQ2tUhETl",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1433,13 +1485,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:39:24.654582Z",
-        "updated_at": "2025-11-20T12:39:24.654582Z",
-        "draft_created_at": "2025-11-20T12:39:07.693347Z",
-        "lead_time": 30.331,
+        "created_at": "2025-11-21T01:40:57.089674Z",
+        "updated_at": "2025-11-21T01:40:57.089674Z",
+        "draft_created_at": "2025-11-21T01:40:26.389639Z",
+        "lead_time": 40.92,
         "prediction": {},
-        "result_count": 4,
-        "unique_id": "0548afcd-adce-42e4-ba77-cd5795a2646c",
+        "result_count": 10,
+        "unique_id": "c85bbcbb-bc62-4a50-9815-034c69858485",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -1451,15 +1503,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Đảng Cộng sản Việt Nam là đội tiên phong của giai cấp công nhân Việt Nam đại biểu trung thành lợi ích của giai cấp công nhân nhân dân lao động và của cả dân tộc"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:39:24.729881Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:40:57.152634Z",
     "inner_id": 13,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -1475,17 +1527,17 @@
     "id": 34,
     "annotations": [
       {
-        "id": 54,
+        "id": 71,
         "completed_by": 1,
         "result": [
           {
             "value": {
-              "start": 0,
-              "end": 4,
-              "text": "Đảng",
-              "labels": ["ORG"]
+              "start": 19,
+              "end": 36,
+              "text": "Marx Engels Lenin",
+              "labels": ["PER"]
             },
-            "id": "YlnFLSYkY9",
+            "id": "xNr47C7nMJ",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1493,12 +1545,12 @@
           },
           {
             "value": {
-              "start": 19,
-              "end": 37,
-              "text": "Marx Engels Lenin ",
+              "start": 49,
+              "end": 60,
+              "text": "Hồ Chí Minh",
               "labels": ["PER"]
             },
-            "id": "N7PQJ1uk_p",
+            "id": "Y7LhNzWnba",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1511,7 +1563,7 @@
               "text": "lấy chủ nghĩa",
               "labels": ["O"]
             },
-            "id": "8TdLarGsTV",
+            "id": "ViUZm-lgoC",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1520,11 +1572,37 @@
           {
             "value": {
               "start": 37,
-              "end": 160,
-              "text": "và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng kim chỉ nam cho hành động lấy tập trung dân chủ làm nguyên tắc tổ chức cơ bản",
+              "end": 48,
+              "text": "và tư tưởng",
               "labels": ["O"]
             },
-            "id": "oa0bgev69y",
+            "id": "rI6fKDmurY",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 61,
+              "end": 160,
+              "text": "làm nền tảng tư tưởng kim chỉ nam cho hành động lấy tập trung dân chủ làm nguyên tắc tổ chức cơ bản",
+              "labels": ["O"]
+            },
+            "id": "mn23Dz10sP",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 0,
+              "end": 4,
+              "text": "Đảng",
+              "labels": ["ORG"]
+            },
+            "id": "iCMZ_RP_4O",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1533,13 +1611,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:39:43.164203Z",
-        "updated_at": "2025-11-20T12:39:43.164203Z",
-        "draft_created_at": "2025-11-20T12:39:33.891036Z",
-        "lead_time": 17.771,
+        "created_at": "2025-11-21T01:41:19.215652Z",
+        "updated_at": "2025-11-21T01:41:19.215652Z",
+        "draft_created_at": "2025-11-21T01:41:06.976700Z",
+        "lead_time": 21.01,
         "prediction": {},
-        "result_count": 4,
-        "unique_id": "4e2bb43a-b28e-4a64-bce0-6fb45aa1e9ee",
+        "result_count": 6,
+        "unique_id": "62c41983-b039-4e9a-867f-5b5e23c2bc4c",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -1551,15 +1629,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Đảng lấy chủ nghĩa Marx Engels Lenin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng kim chỉ nam cho hành động lấy tập trung dân chủ làm nguyên tắc tổ chức cơ bản"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.051056Z",
-    "updated_at": "2025-11-20T12:39:43.233235Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:41:19.272630Z",
     "inner_id": 14,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -1575,7 +1653,7 @@
     "id": 35,
     "annotations": [
       {
-        "id": 55,
+        "id": 72,
         "completed_by": 1,
         "result": [
           {
@@ -1585,7 +1663,7 @@
               "text": "Đảng",
               "labels": ["ORG"]
             },
-            "id": "IVwb_1kJuh",
+            "id": "LBv-hGHlBg",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1598,7 +1676,7 @@
               "text": "Việt Nam",
               "labels": ["LOC"]
             },
-            "id": "aaiigJ0SGU",
+            "id": "T8PBmQ3AdC",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1611,7 +1689,7 @@
               "text": "Mục đích của",
               "labels": ["O"]
             },
-            "id": "72yPBc8o0w",
+            "id": "lUYlJKOVnw",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1619,12 +1697,12 @@
           },
           {
             "value": {
-              "start": 17,
+              "start": 18,
               "end": 34,
-              "text": " là xây dựng nước",
+              "text": "là xây dựng nước",
               "labels": ["O"]
             },
-            "id": "8xILSbG0j2",
+            "id": "z0Kl50gr4y",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1637,7 +1715,7 @@
               "text": "dân chủ giàu mạnh theo con đường xã hội chủ nghĩa và cuối cùng là thực hiện lý tưởng cộng sản chủ nghĩa",
               "labels": ["O"]
             },
-            "id": "5oE9fsdow-",
+            "id": "XnaK-S9IyE",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1646,13 +1724,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:40:06.821824Z",
-        "updated_at": "2025-11-20T12:40:06.822824Z",
-        "draft_created_at": "2025-11-20T12:39:52.370024Z",
-        "lead_time": 22.581,
+        "created_at": "2025-11-21T01:41:45.309246Z",
+        "updated_at": "2025-11-21T01:41:45.309246Z",
+        "draft_created_at": "2025-11-21T01:41:30.725223Z",
+        "lead_time": 24.998,
         "prediction": {},
         "result_count": 5,
-        "unique_id": "b74327a9-b9fa-4b9a-9397-eb3d7b299132",
+        "unique_id": "6879ed23-f8f9-47c0-bc0c-4e1b18adb932",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -1664,15 +1742,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Mục đích của Đảng là xây dựng nước Việt Nam dân chủ giàu mạnh theo con đường xã hội chủ nghĩa và cuối cùng là thực hiện lý tưởng cộng sản chủ nghĩa"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.052231Z",
-    "updated_at": "2025-11-20T12:40:06.884285Z",
+    "created_at": "2025-11-21T01:30:28.018595Z",
+    "updated_at": "2025-11-21T01:41:45.390924Z",
     "inner_id": 15,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -1688,7 +1766,7 @@
     "id": 36,
     "annotations": [
       {
-        "id": 56,
+        "id": 73,
         "completed_by": 1,
         "result": [
           {
@@ -1698,33 +1776,7 @@
               "text": "Cơ quan cao nhất của",
               "labels": ["O"]
             },
-            "id": "q9RJzuOrCN",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 21,
-              "end": 25,
-              "text": "Đảng",
-              "labels": ["ORG"]
-            },
-            "id": "iBgeZMBNZj",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 70,
-              "end": 94,
-              "text": "Ban Chấp hành Trung ương",
-              "labels": ["ORG"]
-            },
-            "id": "2QY60PQE_S",
+            "id": "Vptf6HUy04",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1737,7 +1789,33 @@
               "text": "là Đại hội Đại biểu toàn quốc nơi sẽ bầu ra",
               "labels": ["O"]
             },
-            "id": "hd0E8hf4OE",
+            "id": "DiZPcg63HR",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 21,
+              "end": 25,
+              "text": "Đảng",
+              "labels": ["ORG"]
+            },
+            "id": "LzJEpJyiL2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 70,
+              "end": 94,
+              "text": "Ban Chấp hành Trung ương",
+              "labels": ["O"]
+            },
+            "id": "I2sxzwhvSD",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1746,13 +1824,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:40:31.978745Z",
-        "updated_at": "2025-11-20T12:40:31.978745Z",
-        "draft_created_at": "2025-11-20T12:40:17.188708Z",
-        "lead_time": 24.408,
+        "created_at": "2025-11-21T01:42:02.340232Z",
+        "updated_at": "2025-11-21T01:42:02.340232Z",
+        "draft_created_at": "2025-11-21T01:41:54.065653Z",
+        "lead_time": 16.059,
         "prediction": {},
         "result_count": 4,
-        "unique_id": "a0ddb885-b1fb-4cba-8ceb-7ff0bc2d87bb",
+        "unique_id": "48cdb85e-32f0-4ae0-8158-558c4a0743c7",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -1764,15 +1842,15 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Cơ quan cao nhất của Đảng là Đại hội Đại biểu toàn quốc nơi sẽ bầu ra Ban Chấp hành Trung ương"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.052231Z",
-    "updated_at": "2025-11-20T12:40:32.039492Z",
+    "created_at": "2025-11-21T01:30:28.019593Z",
+    "updated_at": "2025-11-21T01:42:02.415897Z",
     "inner_id": 16,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -1788,9 +1866,35 @@
     "id": 37,
     "annotations": [
       {
-        "id": 57,
+        "id": 74,
         "completed_by": 1,
         "result": [
+          {
+            "value": {
+              "start": 0,
+              "end": 11,
+              "text": "Giữa các kỳ",
+              "labels": ["O"]
+            },
+            "id": "61J37G9XRS",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 12,
+              "end": 19,
+              "text": "Đại hội",
+              "labels": ["O"]
+            },
+            "id": "dd0xwsAwgG",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
           {
             "value": {
               "start": 20,
@@ -1798,7 +1902,7 @@
               "text": "Đảng",
               "labels": ["ORG"]
             },
-            "id": "QG-EKfdo1l",
+            "id": "tYvzeBwNlB",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1811,7 +1915,20 @@
               "text": "Ban Chấp hành Trung ương Đảng",
               "labels": ["ORG"]
             },
-            "id": "n8TVyNFvQI",
+            "id": "dhqvRTfxbw",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 57,
+              "end": 65,
+              "text": " cơ quan",
+              "labels": ["ORG"]
+            },
+            "id": "gmFNDI1S8k",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1824,7 +1941,15 @@
               "text": "Đảng",
               "labels": ["ORG"]
             },
-            "id": "7FMfbrjzjU",
+            "id": "jUtoBHTFoe",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": { "start": 54, "end": 57, "text": " là", "labels": ["O"] },
+            "id": "r4CGyqZw0p",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1832,25 +1957,12 @@
           },
           {
             "value": {
-              "start": 0,
-              "end": 19,
-              "text": "Giữa các kỳ Đại hội",
-              "labels": ["O"]
-            },
-            "id": "t1huaemROY",
-            "from_name": "label",
-            "to_name": "text",
-            "type": "labels",
-            "origin": "manual"
-          },
-          {
-            "value": {
-              "start": 55,
+              "start": 66,
               "end": 99,
-              "text": "là cơ quan tối cao quyết định các vấn đề của",
+              "text": "tối cao quyết định các vấn đề của",
               "labels": ["O"]
             },
-            "id": "rBeR8Z393u",
+            "id": "YwFBLb262X",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1859,13 +1971,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2025-11-20T12:41:01.686668Z",
-        "updated_at": "2025-11-20T12:41:01.686668Z",
-        "draft_created_at": "2025-11-20T12:40:40.747504Z",
-        "lead_time": 28.677,
+        "created_at": "2025-11-21T01:42:53.933269Z",
+        "updated_at": "2025-11-21T01:42:53.933269Z",
+        "draft_created_at": "2025-11-21T01:42:15.279011Z",
+        "lead_time": 47.858,
         "prediction": {},
-        "result_count": 5,
-        "unique_id": "30feb86a-0c85-44f7-ad10-01a3aee57218",
+        "result_count": 8,
+        "unique_id": "9c2936d0-0351-4ac1-88a3-ce760d07cd3c",
         "import_id": null,
         "last_action": null,
         "bulk_created": false,
@@ -1877,16 +1989,281 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "dfc834af-words_list.json",
+    "file_upload": "08a189d3-words_list.json",
     "drafts": [],
     "predictions": [],
     "data": {
       "text": "Giữa các kỳ Đại hội Đảng Ban Chấp hành Trung ương Đảng là cơ quan tối cao quyết định các vấn đề của Đảng"
     },
     "meta": {},
-    "created_at": "2025-11-20T12:04:52.052231Z",
-    "updated_at": "2025-11-20T12:41:01.753801Z",
+    "created_at": "2025-11-21T01:30:28.019593Z",
+    "updated_at": "2025-11-21T01:42:54.001910Z",
     "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 3,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 38,
+    "annotations": [
+      {
+        "id": 75,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 10,
+              "end": 23,
+              "text": "Đảng Cộng sản",
+              "labels": ["ORG"]
+            },
+            "id": "IrfL_BwONv",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 109,
+              "end": 128,
+              "text": "Đông Dương Cộng sản",
+              "labels": ["ORG"]
+            },
+            "id": "w8Ev4obrDB",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 129,
+              "end": 154,
+              "text": "Đảng An Nam Cộng sản Đảng",
+              "labels": ["ORG"]
+            },
+            "id": "p2Q02c_dip",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 158,
+              "end": 187,
+              "text": "Đông Dương Cộng sản Liên đoàn",
+              "labels": ["ORG"]
+            },
+            "id": "zHCopAjNaO",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 0,
+              "end": 9,
+              "text": "Trước khi",
+              "labels": ["O"]
+            },
+            "id": "SWQ2PbM2KI",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 24,
+              "end": 53,
+              "text": "được thành lập thống nhất thì",
+              "labels": ["O"]
+            },
+            "id": "IJmfUBKiVS",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 63,
+              "end": 108,
+              "text": "có 3 đảng cộng sản riêng rẽ được thành lập là",
+              "labels": ["O"]
+            },
+            "id": "rx4cmV-Tqr",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 155,
+              "end": 157,
+              "text": "và",
+              "labels": ["O"]
+            },
+            "id": "M9disdwfst",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 54,
+              "end": 62,
+              "text": "Việt Nam",
+              "labels": ["LOC"]
+            },
+            "id": "FYY-6FxtXA",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-21T01:43:40.182478Z",
+        "updated_at": "2025-11-21T01:43:40.182478Z",
+        "draft_created_at": "2025-11-21T01:43:03.373711Z",
+        "lead_time": 45.108,
+        "prediction": {},
+        "result_count": 9,
+        "unique_id": "649f7969-706c-4f88-a376-47090cb38f91",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 38,
+        "project": 3,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "08a189d3-words_list.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Trước khi Đảng Cộng sản được thành lập thống nhất thì Việt Nam có 3 đảng cộng sản riêng rẽ được thành lập là Đông Dương Cộng sản Đảng An Nam Cộng sản Đảng và Đông Dương Cộng sản Liên đoàn"
+    },
+    "meta": {},
+    "created_at": "2025-11-21T01:30:28.019593Z",
+    "updated_at": "2025-11-21T01:43:40.249435Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 3,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 39,
+    "annotations": [
+      {
+        "id": 76,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 37,
+              "end": 59,
+              "text": "Đảng Cộng sản Việt Nam",
+              "labels": ["ORG"]
+            },
+            "id": "Gzd4Stu_Wl",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 51,
+              "end": 59,
+              "text": "Việt Nam",
+              "labels": ["LOC"]
+            },
+            "id": "Rpma80fVWz",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 60,
+              "end": 68,
+              "text": "ngày nay",
+              "labels": ["O"]
+            },
+            "id": "86DIITA_Gd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 0,
+              "end": 36,
+              "text": "Đây chính là 3 tổ chức tiền thân của",
+              "labels": ["O"]
+            },
+            "id": "JQaOuAMYZP",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-21T01:43:58.943859Z",
+        "updated_at": "2025-11-21T01:43:58.943859Z",
+        "draft_created_at": "2025-11-21T01:43:50.123054Z",
+        "lead_time": 17.627,
+        "prediction": {},
+        "result_count": 4,
+        "unique_id": "28c16c48-c942-4578-aab5-6cb78cb666b5",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 39,
+        "project": 3,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "08a189d3-words_list.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Đây chính là 3 tổ chức tiền thân của Đảng Cộng sản Việt Nam ngày nay"
+    },
+    "meta": {},
+    "created_at": "2025-11-21T01:30:28.019593Z",
+    "updated_at": "2025-11-21T01:43:58.993406Z",
+    "inner_id": 19,
     "total_annotations": 1,
     "cancelled_annotations": 0,
     "total_predictions": 0,
